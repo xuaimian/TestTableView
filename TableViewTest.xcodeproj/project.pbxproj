@@ -7,15 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6FD10E7D2306FF0C00A10D1C /* ViewControllerZW2f.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FD10E7C2306FF0C00A10D1C /* ViewControllerZW2f.m */; };
 		6FF2F26B2306EF5F00EE8D4B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FF2F26A2306EF5F00EE8D4B /* AppDelegate.m */; };
 		6FF2F26E2306EF5F00EE8D4B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FF2F26D2306EF5F00EE8D4B /* ViewController.m */; };
 		6FF2F2712306EF5F00EE8D4B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FF2F26F2306EF5F00EE8D4B /* Main.storyboard */; };
 		6FF2F2732306EF6100EE8D4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FF2F2722306EF6100EE8D4B /* Assets.xcassets */; };
 		6FF2F2762306EF6200EE8D4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FF2F2742306EF6200EE8D4B /* LaunchScreen.storyboard */; };
 		6FF2F2792306EF6200EE8D4B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FF2F2782306EF6200EE8D4B /* main.m */; };
+		6FF2F2822306F16800EE8D4B /* CustomerTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FF2F2802306F16800EE8D4B /* CustomerTableViewCell.m */; };
+		6FF2F2832306F16800EE8D4B /* CustomerTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6FF2F2812306F16800EE8D4B /* CustomerTableViewCell.xib */; };
+		6FF2F2872306F35F00EE8D4B /* CustomerAATableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FF2F2852306F35F00EE8D4B /* CustomerAATableViewCell.m */; };
+		6FF2F2882306F35F00EE8D4B /* CustomerAATableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6FF2F2862306F35F00EE8D4B /* CustomerAATableViewCell.xib */; };
+		6FF2F28C2306F37900EE8D4B /* CustomerZZTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FF2F28A2306F37900EE8D4B /* CustomerZZTableViewCell.m */; };
+		6FF2F28D2306F37900EE8D4B /* CustomerZZTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6FF2F28B2306F37900EE8D4B /* CustomerZZTableViewCell.xib */; };
+		6FF2F2912306F39200EE8D4B /* CustomerDDTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FF2F28F2306F39200EE8D4B /* CustomerDDTableViewCell.m */; };
+		6FF2F2922306F39200EE8D4B /* CustomerDDTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6FF2F2902306F39200EE8D4B /* CustomerDDTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6FD10E7B2306FF0C00A10D1C /* ViewControllerZW2f.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewControllerZW2f.h; sourceTree = "<group>"; };
+		6FD10E7C2306FF0C00A10D1C /* ViewControllerZW2f.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewControllerZW2f.m; sourceTree = "<group>"; };
 		6FF2F2662306EF5F00EE8D4B /* TableViewTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FF2F2692306EF5F00EE8D4B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6FF2F26A2306EF5F00EE8D4B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -26,6 +37,18 @@
 		6FF2F2752306EF6200EE8D4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6FF2F2772306EF6200EE8D4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6FF2F2782306EF6200EE8D4B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6FF2F27F2306F16800EE8D4B /* CustomerTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomerTableViewCell.h; sourceTree = "<group>"; };
+		6FF2F2802306F16800EE8D4B /* CustomerTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomerTableViewCell.m; sourceTree = "<group>"; };
+		6FF2F2812306F16800EE8D4B /* CustomerTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomerTableViewCell.xib; sourceTree = "<group>"; };
+		6FF2F2842306F35F00EE8D4B /* CustomerAATableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomerAATableViewCell.h; sourceTree = "<group>"; };
+		6FF2F2852306F35F00EE8D4B /* CustomerAATableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomerAATableViewCell.m; sourceTree = "<group>"; };
+		6FF2F2862306F35F00EE8D4B /* CustomerAATableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomerAATableViewCell.xib; sourceTree = "<group>"; };
+		6FF2F2892306F37900EE8D4B /* CustomerZZTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomerZZTableViewCell.h; sourceTree = "<group>"; };
+		6FF2F28A2306F37900EE8D4B /* CustomerZZTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomerZZTableViewCell.m; sourceTree = "<group>"; };
+		6FF2F28B2306F37900EE8D4B /* CustomerZZTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomerZZTableViewCell.xib; sourceTree = "<group>"; };
+		6FF2F28E2306F39200EE8D4B /* CustomerDDTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomerDDTableViewCell.h; sourceTree = "<group>"; };
+		6FF2F28F2306F39200EE8D4B /* CustomerDDTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomerDDTableViewCell.m; sourceTree = "<group>"; };
+		6FF2F2902306F39200EE8D4B /* CustomerDDTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomerDDTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +85,20 @@
 				6FF2F26A2306EF5F00EE8D4B /* AppDelegate.m */,
 				6FF2F26C2306EF5F00EE8D4B /* ViewController.h */,
 				6FF2F26D2306EF5F00EE8D4B /* ViewController.m */,
+				6FD10E7B2306FF0C00A10D1C /* ViewControllerZW2f.h */,
+				6FD10E7C2306FF0C00A10D1C /* ViewControllerZW2f.m */,
+				6FF2F27F2306F16800EE8D4B /* CustomerTableViewCell.h */,
+				6FF2F2802306F16800EE8D4B /* CustomerTableViewCell.m */,
+				6FF2F2812306F16800EE8D4B /* CustomerTableViewCell.xib */,
+				6FF2F2842306F35F00EE8D4B /* CustomerAATableViewCell.h */,
+				6FF2F2852306F35F00EE8D4B /* CustomerAATableViewCell.m */,
+				6FF2F2862306F35F00EE8D4B /* CustomerAATableViewCell.xib */,
+				6FF2F2892306F37900EE8D4B /* CustomerZZTableViewCell.h */,
+				6FF2F28A2306F37900EE8D4B /* CustomerZZTableViewCell.m */,
+				6FF2F28B2306F37900EE8D4B /* CustomerZZTableViewCell.xib */,
+				6FF2F28E2306F39200EE8D4B /* CustomerDDTableViewCell.h */,
+				6FF2F28F2306F39200EE8D4B /* CustomerDDTableViewCell.m */,
+				6FF2F2902306F39200EE8D4B /* CustomerDDTableViewCell.xib */,
 				6FF2F26F2306EF5F00EE8D4B /* Main.storyboard */,
 				6FF2F2722306EF6100EE8D4B /* Assets.xcassets */,
 				6FF2F2742306EF6200EE8D4B /* LaunchScreen.storyboard */,
@@ -130,7 +167,11 @@
 			files = (
 				6FF2F2762306EF6200EE8D4B /* LaunchScreen.storyboard in Resources */,
 				6FF2F2732306EF6100EE8D4B /* Assets.xcassets in Resources */,
+				6FF2F2882306F35F00EE8D4B /* CustomerAATableViewCell.xib in Resources */,
+				6FF2F28D2306F37900EE8D4B /* CustomerZZTableViewCell.xib in Resources */,
 				6FF2F2712306EF5F00EE8D4B /* Main.storyboard in Resources */,
+				6FF2F2832306F16800EE8D4B /* CustomerTableViewCell.xib in Resources */,
+				6FF2F2922306F39200EE8D4B /* CustomerDDTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,8 +183,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				6FF2F26E2306EF5F00EE8D4B /* ViewController.m in Sources */,
+				6FF2F2872306F35F00EE8D4B /* CustomerAATableViewCell.m in Sources */,
 				6FF2F2792306EF6200EE8D4B /* main.m in Sources */,
+				6FF2F28C2306F37900EE8D4B /* CustomerZZTableViewCell.m in Sources */,
 				6FF2F26B2306EF5F00EE8D4B /* AppDelegate.m in Sources */,
+				6FF2F2822306F16800EE8D4B /* CustomerTableViewCell.m in Sources */,
+				6FF2F2912306F39200EE8D4B /* CustomerDDTableViewCell.m in Sources */,
+				6FD10E7D2306FF0C00A10D1C /* ViewControllerZW2f.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
